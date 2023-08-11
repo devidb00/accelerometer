@@ -1,0 +1,5 @@
+notebooks/
+.env
+node_modules/
+.venv/
+.vscode/
